@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294542747805",
+    "project_id": "pdmfirebase-ae7fb",
+    "storage_bucket": "pdmfirebase-ae7fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294542747805:android:4bc1d9a5a66f296b2e8c74",
+        "android_client_info": {
+          "package_name": "com.cibertec.pdmfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294542747805-ecdpa1mc0rn1pb8onkrs9h4ike7uraql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIEDPKcP-y6qZClPsJyposPKk6qEasSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294542747805-ecdpa1mc0rn1pb8onkrs9h4ike7uraql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
